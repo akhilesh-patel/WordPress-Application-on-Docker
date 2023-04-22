@@ -1,3 +1,4 @@
+#start
 version: '3'
 services:
   mysql_db1:
